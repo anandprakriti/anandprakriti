@@ -8,7 +8,7 @@ I'm a web developer who loves to create beautiful and functional websites using 
 - I'm also interested in learning more about web design, accessibility and performance optimization.
 
 ## 📫 How to reach me:
-- You can follow me on Dev.to at @anandprakriti
+- You can follow me on Dev.to at [@anandprakriti](https://dev.to/anandprakriti)
 
 ## 😄 Fun facts about me:
 
